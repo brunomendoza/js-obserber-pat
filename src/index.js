@@ -1,5 +1,5 @@
 import sleep from "./helper"
-import Spot from "./Location"
+import Spot from "./Spot"
 import Subject from "./Subject"
 
 (() => {
